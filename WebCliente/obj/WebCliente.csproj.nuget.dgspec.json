@@ -4,6 +4,182 @@
     "E:\\VERSENGEN\\PROYECTO\\WebCliente\\WebCliente.csproj": {}
   },
   "projects": {
+    "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj",
+        "projectName": "Contrato",
+        "projectPath": "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj",
+        "packagesPath": "C:\\Users\\WILHELM\\.nuget\\packages\\",
+        "outputPath": "E:\\VERSENGEN\\PROYECTO\\Contrato\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WILHELM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj": {
+                "projectPath": "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj",
+        "projectName": "Modelo",
+        "projectPath": "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\WILHELM\\.nuget\\packages\\",
+        "outputPath": "E:\\VERSENGEN\\PROYECTO\\Modelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WILHELM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VERSENGEN\\PROYECTO\\Repositorio\\Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VERSENGEN\\PROYECTO\\Repositorio\\Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "E:\\VERSENGEN\\PROYECTO\\Repositorio\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\WILHELM\\.nuget\\packages\\",
+        "outputPath": "E:\\VERSENGEN\\PROYECTO\\Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WILHELM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj": {
+                "projectPath": "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj"
+              },
+              "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj": {
+                "projectPath": "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\VERSENGEN\\PROYECTO\\WebCliente\\WebCliente.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +203,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj": {
+                "projectPath": "E:\\VERSENGEN\\PROYECTO\\Contrato\\Contrato.csproj"
+              },
+              "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj": {
+                "projectPath": "E:\\VERSENGEN\\PROYECTO\\Modelo\\Modelo.csproj"
+              },
+              "E:\\VERSENGEN\\PROYECTO\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "E:\\VERSENGEN\\PROYECTO\\Repositorio\\Repositorio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

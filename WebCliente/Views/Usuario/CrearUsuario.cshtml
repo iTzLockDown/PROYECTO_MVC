@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Modelo;
+@{
+}
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title">Crear Usuario</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form method="post">
+        <div class="card-body">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Codigo </label>
+                <input type="text" class="form-control" id="exampleInputEmail1" name="Codigo" placeholder="Ingrese codigo">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Nombre </label>
+                <input type="text" class="form-control" id="exampleInputPassword1" name="User" placeholder="Ingrese el nombre">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Apellidos </label>
+                <input type="password" class="form-control" id="exampleInputPassword1" name="Password" placeholder="Ingrese el password">
+            </div>
+
+
+        </div>
+        <!-- /.card-body -->
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary">Grabar</button>
+        </div>
+    </form>
+</div>
+

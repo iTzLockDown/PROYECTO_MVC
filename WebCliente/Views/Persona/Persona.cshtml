@@ -1,0 +1,43 @@
+﻿@using Modelo;
+@model IEnumerable<Persona> 
+@{
+ 
+}
+
+<div>
+    @Html.ActionLink("Nueva Persona", "CrearPersona", "Persona",  new object{} ,new {@class = "btn btn-primary btn-block"})
+</div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+            <th scope="col">Nombres</th>
+            <th scope="col">Documento</th>
+            <th scope="col">Dirección</th>
+            <th scope="col">email</th>
+            <th scope="col">
+
+            </th>
+    </tr>
+  </thead>
+  <tbody>
+       @foreach (Persona persona in @Model)
+            {
+        <tr>
+                <th scope="row">@persona.Codigo</th>
+                <td>@persona.Nombre @persona.Apellido</td>
+                <td>@persona.Documento</td>
+                <td>@persona.Direccion</td>
+                <td>@persona.Email</td>
+                <td>
+                    @Html.ActionLink("Editar", "CrearPersona", "Persona",  new { numero = persona} ,new {@class = "btn btn-secondary btn-block"})
+                    @Html.ActionLink("Eliminar", "EliminarPersona", "Persona",  new {numero = persona.Codigo} ,new {@class = "btn btn-danger btn-block"})
+
+                </td>
+        </tr>
+    }
+  </tbody>
+</table>
+
+

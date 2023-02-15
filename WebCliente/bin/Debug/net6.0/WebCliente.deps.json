@@ -7,14 +7,56 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "WebCliente/1.0.0": {
+        "dependencies": {
+          "Contrato": "1.0.0",
+          "Modelo": "1.0.0",
+          "Repositorio": "1.0.0"
+        },
         "runtime": {
           "WebCliente.dll": {}
+        }
+      },
+      "Contrato/1.0.0": {
+        "dependencies": {
+          "Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Contrato.dll": {}
+        }
+      },
+      "Modelo/1.0.0": {
+        "runtime": {
+          "Modelo.dll": {}
+        }
+      },
+      "Repositorio/1.0.0": {
+        "dependencies": {
+          "Contrato": "1.0.0",
+          "Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Repositorio.dll": {}
         }
       }
     }
   },
   "libraries": {
     "WebCliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositorio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

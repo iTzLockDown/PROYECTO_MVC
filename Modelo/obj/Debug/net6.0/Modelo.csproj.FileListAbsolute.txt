@@ -1,0 +1,12 @@
+E:\VERSENGEN\PROYECTO\Modelo\bin\Debug\net6.0\Modelo.deps.json
+E:\VERSENGEN\PROYECTO\Modelo\bin\Debug\net6.0\Modelo.dll
+E:\VERSENGEN\PROYECTO\Modelo\bin\Debug\net6.0\Modelo.pdb
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.dll
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\Modelo.pdb
+E:\VERSENGEN\PROYECTO\Modelo\obj\Debug\net6.0\ref\Modelo.dll

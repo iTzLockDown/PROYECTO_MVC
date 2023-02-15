@@ -1,0 +1,15 @@
+E:\VERSENGEN\PROYECTO\Contrato\bin\Debug\net6.0\Contrato.deps.json
+E:\VERSENGEN\PROYECTO\Contrato\bin\Debug\net6.0\Contrato.dll
+E:\VERSENGEN\PROYECTO\Contrato\bin\Debug\net6.0\Contrato.pdb
+E:\VERSENGEN\PROYECTO\Contrato\bin\Debug\net6.0\Modelo.dll
+E:\VERSENGEN\PROYECTO\Contrato\bin\Debug\net6.0\Modelo.pdb
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.csproj.AssemblyReference.cache
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.AssemblyInfoInputs.cache
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.AssemblyInfo.cs
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.csproj.CoreCompileInputs.cache
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.csproj.CopyComplete
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.dll
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\refint\Contrato.dll
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\Contrato.pdb
+E:\VERSENGEN\PROYECTO\Contrato\obj\Debug\net6.0\ref\Contrato.dll

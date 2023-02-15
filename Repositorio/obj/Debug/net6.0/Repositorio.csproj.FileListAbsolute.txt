@@ -1,0 +1,17 @@
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Repositorio.dll
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Contrato.dll
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Modelo.dll
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Contrato.pdb
+E:\VERSENGEN\PROYECTO\Repositorio\bin\Debug\net6.0\Modelo.pdb
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.dll
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+E:\VERSENGEN\PROYECTO\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
