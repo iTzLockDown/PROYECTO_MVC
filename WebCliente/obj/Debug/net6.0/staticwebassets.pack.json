@@ -8193,6 +8193,122 @@
       "PackagePath": "staticwebassets\\plugins\\uplot\\uPlot.min.css"
     },
     {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\website\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\website\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\css\\style.css",
+      "PackagePath": "staticwebassets\\website\\css\\style.css"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\bar-chart.png",
+      "PackagePath": "staticwebassets\\website\\images\\bar-chart.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\client.png",
+      "PackagePath": "staticwebassets\\website\\images\\client.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\website\\images\\down-arrow.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\fb.png",
+      "PackagePath": "staticwebassets\\website\\images\\fb.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\footer-bg.png",
+      "PackagePath": "staticwebassets\\website\\images\\footer-bg.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\hero-bg-mobile.png",
+      "PackagePath": "staticwebassets\\website\\images\\hero-bg-mobile.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\hero-bg.png",
+      "PackagePath": "staticwebassets\\website\\images\\hero-bg.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\instagram1.png",
+      "PackagePath": "staticwebassets\\website\\images\\instagram1.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\linkedin1.png",
+      "PackagePath": "staticwebassets\\website\\images\\linkedin1.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\menu.png",
+      "PackagePath": "staticwebassets\\website\\images\\menu.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\monitor.png",
+      "PackagePath": "staticwebassets\\website\\images\\monitor.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\multiple-users-silhouette.png",
+      "PackagePath": "staticwebassets\\website\\images\\multiple-users-silhouette.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\next.png",
+      "PackagePath": "staticwebassets\\website\\images\\next.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\prev.png",
+      "PackagePath": "staticwebassets\\website\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\problem.jpg",
+      "PackagePath": "staticwebassets\\website\\images\\problem.jpg"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\s-1.jpg",
+      "PackagePath": "staticwebassets\\website\\images\\s-1.jpg"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\s-2.jpg",
+      "PackagePath": "staticwebassets\\website\\images\\s-2.jpg"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\s-3.jpg",
+      "PackagePath": "staticwebassets\\website\\images\\s-3.jpg"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\website\\images\\search-icon.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\service-bg.png",
+      "PackagePath": "staticwebassets\\website\\images\\service-bg.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\website\\images\\slider-img.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\smiley.png",
+      "PackagePath": "staticwebassets\\website\\images\\smiley.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\website\\images\\twitter.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\images\\welcome.png",
+      "PackagePath": "staticwebassets\\website\\images\\welcome.png"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\website\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\VERSENGEN\\PROYECTO\\WebCliente\\wwwroot\\website\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\website\\js\\jquery-3.4.1.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebCliente.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
